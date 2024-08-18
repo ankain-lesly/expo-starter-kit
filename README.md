@@ -1,50 +1,100 @@
-# Welcome to your Expo app 👋
+# Starter Kit
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A react native expo project starter kit
 
-## Get started
+## packages to check out
 
-1. Install dependencies
+- axios >> api requests
+- gifted charts >> display charts
+- react native modal >> modal components
+-
 
-   ```bash
-   npm install
-   ```
+Expo Packages:
 
-2. Start the app
+    Expo Font
+    Expo Notifications
+    Expo Device
+    Expo Location
+    Expo Camera
+    Expo Contacts 7 . Expo FileSystem
+    Expo ImagePicker
+    Expo Permissions
+    Expo SQLite
 
-   ```bash
-    npx expo start
-   ```
+UI Components:
 
-In the output, you'll find options to open the app in a
+    React Native Elements
+    NativeBase
+    Shoutem UI
+    React Native Material Kit
+    React Native UI Kitten
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Navigation:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+    React Navigation
+    Wix Navigation
+    React Native Router Flux
 
-## Get a fresh project
+Storage and Database:
 
-When you're ready, run:
+    React Native AsyncStorage
+    Realm
+    Firebase Realtime Database
+    AWS Amplify
 
-```bash
-npm run reset-project
-```
+API and Networking:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+    Axios
+    React Native Fetch
+    React Query
 
-## Learn more
+Security and Authentication:
 
-To learn more about developing your project with Expo, look at the following resources:
+    Expo AuthSession
+    React Native Firebase
+    AWS Cognito
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Utilities and Tools:
 
-## Join the community
+    Lodash
+    React Native Debugger
 
-Join our community of developers creating universal apps.
+UI Components:
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+    Gluestack UI
+    Victory Native
+    Maguns UI
+    React Native Paper
+    UI Kitten
+
+**Navigation: **
+
+    React Native Navigation
+    Navigation Native
+    React Native Tab View
+
+Storage and Database:
+
+    React Native SQLite Storage
+    WatermelonDB
+    React Native Firebase Realtime Database
+    AWS AppSync
+
+API and Networking:
+
+    React Native HTTP
+    React Query Devtools
+    Axios React Native
+
+Security and Authentication:
+
+    React Native Fingerprint Scanner
+    Expo Google Sign-In
+    React Native Facebook SDK
+
+Utilities and Tools:
+
+    React Native Fast Image
+    React Native SVG
+    React Native Gesture Handler
+    React Native Reanimated
