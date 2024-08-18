@@ -34,8 +34,6 @@ export default function Index() {
     };
   }, []);
 
-  console.warn("APP_LOADED");
-
   if (isLoading) {
     return null;
   }
